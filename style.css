@@ -1,0 +1,42 @@
+body {
+	background-color: #31363F;
+}
+.container {
+	width: 800px;
+	background-color: #222831;
+	margin: 40px auto;
+	padding: 20px;
+	color: #E3651D;
+}
+.title {
+	text-align: center;
+}
+.content {
+	display: flex;
+	align-items: center;
+}
+.left-content {
+	width: 49%;
+	margin: 0 auto;
+	border-right: 2px solid whitesmoke;
+}
+.left-content img {
+	width: 100%;
+}
+.right-content {
+	width: 60%;
+	padding: 0 20px;
+}
+.right-content h2{
+	text-align: center;
+}
+label, input, button {
+	padding: 8px;
+	margin: 10px auto;
+}
+footer {
+	padding: 4px;
+	text-align: center;
+	background-color: whitesmoke;
+	color: #31363F;
+}
